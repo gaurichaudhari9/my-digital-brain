@@ -1,5 +1,5 @@
 # Table of contents
 
 * [WELCOME TO MY DIGITAL BRAIN!](README.md)
-* [Leetcode Jots](Leetcode-Jots/README.md)
-  * [Types of Problems](Leetcode-Jots/types-of-problems.md)
+* [Leetcode Jots](leetcode-jots/README.md)
+  * [Types of Problems](leetcode-jots/types-of-problems.md)
